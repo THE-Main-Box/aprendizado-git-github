@@ -1,0 +1,2 @@
+Aprendi que não importa se uso o "cmd" se estiver baixado direito e estiver na pasta correta posso usar o git de lá mesmo.
+Além de comandos do git

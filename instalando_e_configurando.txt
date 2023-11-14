@@ -1,0 +1,1 @@
+Eu aprendi a instalar o git | e comandos básicos de configuração de nomes e email do usuario
